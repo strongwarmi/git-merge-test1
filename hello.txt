@@ -1,2 +1,6 @@
 Hola amig@s
+<<<<<<< HEAD
 nueva linea a hello
+=======
+Otro contenido a hello
+>>>>>>> usuarios
